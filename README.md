@@ -9,6 +9,7 @@ Day | Problem                                                             | Part
 01  | [Calorie Counting](https://adventofcode.com/2022/day/1)             | 173657     | 167153     | 
 02  | [Rock Paper Scissors](https://adventofcode.com/2022/day/2)          | 138148     | 132020     | 
 03  | [Rucksack Reorganization](https://adventofcode.com/2022/day/3)      | 97823      | 91939      | 
+04  | [Camp Cleanup](https://adventofcode.com/2022/day/4)                 | 1086       | 681        | 
 
 
-Auto-Generated at 2022-12-03 23:56:35.789380
+Auto-Generated at 2022-12-04 00:06:31.890145

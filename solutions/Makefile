@@ -23,6 +23,7 @@ README: ## Update root README
 
 DONE: README ## update README and push up to git
 	@cd ~/github/aoc2022
+	@black .
 	@git add .
 	@git commit -am "day ${day} ✅" -m "${comment}"
 	@git push
