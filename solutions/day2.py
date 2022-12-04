@@ -38,6 +38,7 @@ def part1(lines: List[str]) -> int:
             score += WIN
     return score
 
+
 submit(1, part1(lines), force=False)
 
 
@@ -50,22 +51,13 @@ def part2(lines: List[str]) -> int:
         oo = ord(opp) - ord("A") + 1
         if result == "Y":
             score += DRAW
-            score += oo 
+            score += oo
         elif result == "X":
-            score += {
-                "A": SCISS,
-                "B": ROCK,
-                "C": PAPER,
-            }[opp]
+            score += {"A": SCISS, "B": ROCK, "C": PAPER,}[opp]
         elif result == "Z":
-            score += {
-                "A": PAPER,
-                "B": SCISS,
-                "C": ROCK,
-            }[opp]
+            score += {"A": PAPER, "B": SCISS, "C": ROCK,}[opp]
             score += WIN
     return score
 
+
 submit(2, part2(lines), force=False)
-
-

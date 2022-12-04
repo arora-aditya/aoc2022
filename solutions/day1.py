@@ -29,6 +29,7 @@ def part1(lines: List[str]) -> int:
         elves.append(elf_sum)
     return max(elves)
 
+
 submit(1, part1(lines), force=False)
 
 
@@ -48,6 +49,5 @@ def part2(lines: List[str]) -> int:
         elves.append(elf_sum)
     return sum(list(sorted(elves, reverse=True))[0:3])
 
+
 submit(2, part2(lines), force=False)
-
-
