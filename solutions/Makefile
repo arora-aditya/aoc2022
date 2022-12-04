@@ -4,7 +4,6 @@ BLUE=\033[36m
 NC=\033[0m
 
 day    := $(shell date +%-d)
-dayp   := $(shell printf '%02d' $(day))
 filetd := day$(day).py
 comment:= ""
 
