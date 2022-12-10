@@ -10,3 +10,7 @@ def read_file_int(day):
 
 def read_file(day):
     return list(map(str.strip, open(f"./inputs/input{day}.txt", "r")))
+
+
+def read_file(day, strip=False):
+    return list(map(str, open(f"./inputs/input{day}.txt", "r")))
