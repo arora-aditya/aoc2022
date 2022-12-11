@@ -13,6 +13,7 @@ Day | Problem                                                             | Part
 05  | [Supply Stacks](https://adventofcode.com/2022/day/5)                | 120929     | 118831     | 
 06  | [Tuning Trouble](https://adventofcode.com/2022/day/6)               | 117496     | 116459     | 
 07  | [No Space Left On Device](https://adventofcode.com/2022/day/7)      | 83743      | 81922      | 
+08  | [Treetop Tree House](https://adventofcode.com/2022/day/8)           | 80954      | 75245      | 
 
 
-Auto-Generated at 2022-12-10 16:46:41.471571
+Auto-Generated at 2022-12-10 22:17:27.565738
