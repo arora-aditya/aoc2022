@@ -16,6 +16,7 @@ Day | Problem                                                             | Part
 08  | [Treetop Tree House](https://adventofcode.com/2022/day/8)           | 80954      | 75245      | 
 09  | [Rope Bridge](https://adventofcode.com/2022/day/9)                  | 62139      | 53571      | 
 10  | [Cathode-Ray Tube](https://adventofcode.com/2022/day/10)            | 51947      | 48062      | 
+11  | [Monkey in the Middle](https://adventofcode.com/2022/day/11)        | 831        | 681        | 
 
 
-Auto-Generated at 2022-12-10 23:34:52.407298
+Auto-Generated at 2022-12-11 00:33:32.865131
