@@ -14,6 +14,7 @@ Day | Problem                                                             | Part
 06  | [Tuning Trouble](https://adventofcode.com/2022/day/6)               | 117496     | 116459     | 
 07  | [No Space Left On Device](https://adventofcode.com/2022/day/7)      | 83743      | 81922      | 
 08  | [Treetop Tree House](https://adventofcode.com/2022/day/8)           | 80954      | 75245      | 
+09  | [Rope Bridge](https://adventofcode.com/2022/day/9)                  | 62139      | 53571      | 
 
 
-Auto-Generated at 2022-12-10 22:17:27.565738
+Auto-Generated at 2022-12-10 23:04:56.834299
