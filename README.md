@@ -15,6 +15,7 @@ Day | Problem                                                             | Part
 07  | [No Space Left On Device](https://adventofcode.com/2022/day/7)      | 83743      | 81922      | 
 08  | [Treetop Tree House](https://adventofcode.com/2022/day/8)           | 80954      | 75245      | 
 09  | [Rope Bridge](https://adventofcode.com/2022/day/9)                  | 62139      | 53571      | 
+10  | [Cathode-Ray Tube](https://adventofcode.com/2022/day/10)            | 51947      | 48062      | 
 
 
-Auto-Generated at 2022-12-10 23:04:56.834299
+Auto-Generated at 2022-12-10 23:34:52.407298
